@@ -1,11 +1,12 @@
-# Network_Analysis_CSC-607
-This repository contains all the work I have done for the course fulfillment of Network_Analysis_CSC-607.
+# Network-Analysis
+This repository contains all the work I have done in Network-Analysis.
 
 ##### Table of Contents  
 [Adjacency_Matrix](#Adjacency_Matrix)  
 [Degree_centrality without networkx](#Degree_centrality)
 [Freemans' Centrality](#Freemans_centrality)
 [Yelp_data_analysis](#Yelp_data_analysis)
+[Pandemic_simulator](#Pandemic_simulator)
 
 
 <a name="Adjacency_Matrix"/>
@@ -16,6 +17,8 @@ This repository contains all the work I have done for the course fulfillment of 
 
 <a name="Yelp_data_analysis"/>
 
+<a name="Pandemic_simulator"/>
+
 ## Adjacency_Matrix
 
 ## Degree_centrality without networkx
@@ -23,3 +26,5 @@ This repository contains all the work I have done for the course fulfillment of 
 ## Freemans' Centrality
 
 ## Yelp_data_analysis
+
+## Pandemic_simulator
